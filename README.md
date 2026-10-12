@@ -14,7 +14,9 @@ O projeto foi estruturado em sprints com foco em governança, segurança da info
 
 ## 📊 Dashboard de Monitoramento Executivo (Power BI)
 O painel foi construído para consolidar indicadores de performance (KPIs) voltados para a diretoria, trazendo clareza sobre o consumo de orçamento (USD) e o progresso das entregas por microsserviço.
- <img width="960" height="504" alt="print_grafico_rosca png" src="https://github.com/user-attachments/assets/1a3bdd62-66df-49f2-addc-9c853eef996f" /> 
- <img width="960" height="503" alt="print_kpi_total png" src="https://github.com/user-attachments/assets/d955c20e-fd52-4c44-a6f9-b94c177a5a33" />
+<img width="1920" height="1022" alt="print_grafico_rosca png" src="https://github.com/user-attachments/assets/1758687d-1d88-46f2-aa6f-b03fcdc23fd1" />
+<img width="1920" height="1022" alt="print_kpi_total png" src="https://github.com/user-attachments/assets/1fad99c1-6e4b-423a-97c3-1619fc7cbe44" />
+
+
 
 
